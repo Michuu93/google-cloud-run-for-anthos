@@ -2,6 +2,7 @@
 
 ## Requirements
 - Terraform
+- [Setting up the command-line environment](https://cloud.google.com/anthos/run/docs/install/outside-gcp/command-line-tools)
 
 ## How to run
 
